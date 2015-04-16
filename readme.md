@@ -13,3 +13,6 @@
 ##功能组件
 + draggable
 + resizable
+
+--
+测试修改版
